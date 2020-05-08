@@ -1,0 +1,31 @@
+id,cuisines,name
+0,"American, BBQ, Beverages",Hard Rock Cafe
+1,"North Indian, Continental, Chinese, Fast Food, Andhra, Beverages",Attic Lounge
+2,"Pizza, Continental, Fast Food",Pepe's Pizza
+3,"North Indian, Andhra, Chinese",Trans Into Placid
+4,"Italian, Mexican",Quattro Ristorante
+5,"Cafe, Pizza, Beverages",Brik Oven
+6,Kerala,Kappa Chakka Kandhari
+7,"North Indian, Modern Indian",Spiceklub
+8,"Finger Food, North Indian, Asian, Continental, Mexican",Heartbreaker
+9,"Cafe, Italian, Pizza, Desserts",Skytouch Le Cafe
+10,"South Indian, North Indian, Chinese, Fast Food, Seafood, Beverages",Geometry Gastropub
+11,"Bar Food, North Indian, Asian, Pizza, Sushi",Brew Kings
+12,"North Indian, Continental, Italian, Fast Food",Cirkus
+13,"North Indian, Chinese, Mediterranean",i-Bar - The Park Bangalore
+14,"Continental, Asian, Modern Indian",Nevermind - Bar & Social
+15,"Chinese, Seafood, North Indian, Fast Food, Finger Food",Watson's
+16,"Finger Food, North Indian, Italian, Biryani, Desserts",Whattay Kitchen and Brew
+17,"North Indian, Fast Food, American, Continental",One For The Road
+18,"Continental, North Indian, Chinese",Bold
+19,"North Indian, Continental, Mangalorean",Dropouts
+20,"Cafe, Bakery",Bake Ur Wish
+21,"South Indian, North Indian, Biryani, Street Food, Fast Food",The Bangalore Street Club
+22,"Biryani, Hyderabadi, Chinese",Hyderabad Biryani House
+23,"Fast Food, Street Food, Beverages",Hari Super Sandwich
+24,"North Indian, Continental",Output Bengaluru
+25,"North Indian, South Indian, Biryani",Bhairaveshwara Military Hotel
+26,"Continental, North Indian",La Mafioso Resto Pub
+27,"Finger Food, American, Asian, Steak, North Indian, South Indian, Burger",Fat Owl
+28,"North Indian, Continental, Italian, Pizza, Bar Food",Oyster
+29,"North Indian, Italian, Asian, Mughlai, Bakery",Sky Lounge Bar - Svenska Design Hotel
